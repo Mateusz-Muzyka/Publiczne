@@ -1,0 +1,12 @@
+table, td{margin:2px; border:2px solid transparent; border-collapse:collapse; background-color: grey;}
+
+
+
+button{  margin:auto;
+		display:block;
+		width: 100%;
+		border-bottom-left-radius:8px;
+		border-bottom-right-radius:8px;
+		}
+		
+.rozszerz{height:46px}
