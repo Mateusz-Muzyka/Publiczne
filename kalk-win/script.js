@@ -1,3 +1,7 @@
+
+
+
+
 let L1 = null;
 let subL1 = null;
 let L2 = null;
@@ -110,3 +114,4 @@ for(let i=0; i< guz.length; i++){
 		}
 		
 	}
+	
